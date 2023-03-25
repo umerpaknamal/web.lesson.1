@@ -1,1 +1,0 @@
-pwd,cd,cd..,clear

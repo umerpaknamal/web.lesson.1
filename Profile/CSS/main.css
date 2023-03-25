@@ -1,0 +1,28 @@
+.site-header
+{
+background-color: darkkhaki;
+color: black;
+height: 100vh;
+font-family: 'Courier New', Courier, monospace;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+ 
+
+body{
+    margin: 0cm;
+}
+
+.profile-pic{
+
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+}
+
+.site-header-content{
+    margin: 10px;
+}
