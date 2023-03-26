@@ -1,0 +1,26 @@
+1) Introduction to teacher Profile : https://www.youtube.com/@tanaypratap
+2) Choosing between AI & Machine Learning & Full stack 
+3) Starting with Basic Porfolio Website in HTML and CSS
+4) Writing Basic Code h1,h2,h3,img tag 
+5) Basic CSS styling like how to add class attribute and then style it in the CSS file 
+6) How to add CSS in html file
+7) Learn more in depth about  the use Flex
+8) Getting started with github and git 
+9) Basic Bash Commands
+pwd
+ls
+cd 
+cd..
+cd /
+mkdir
+touch
+rm
+clear
+nan cd
+10) Basic Git Command to get started 
+git pull
+git status
+git checkout
+git add
+git commit -m 'fix:bug'
+git push 
